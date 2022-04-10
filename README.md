@@ -12,5 +12,5 @@ Intro to Node JS:
 https://docs.google.com/presentation/d/16KhBIu6OVdv6JMP4v1KiQNiiGWXNZY7VY_4B1KouJhk/edit#slide=id.p
 
 Hosting your ML model: </br>
-https://drive.google.com/drive/folders/1qVMzfWSSJh3opsEnQ86EhMXEzvouQAZ5
+https://drive.google.com/drive/folders/1qVMzfWSSJh3opsEnQ86EhMXEzvouQAZ5 </br>
 https://github.com/lch99310/WebML
